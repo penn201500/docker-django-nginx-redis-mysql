@@ -1,0 +1,5 @@
+*.bak
+*.log
+*.pid
+*.py[cod]
+*.nginx/log/
